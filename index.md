@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Data Analytics
 
 [Google Data Analytics Capstone Project](https://github.com/Rene0rtiz/Capstone-Project-Using-R)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
