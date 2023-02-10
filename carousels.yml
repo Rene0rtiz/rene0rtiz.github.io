@@ -1,0 +1,6 @@
+carousels:
+  - images: 
+    - image: /images/capstone.png
+    - image: /images/dummy_thumbnail.jp
+    - image: /images/demo.gif
+    - image: /images/logo.jpg
