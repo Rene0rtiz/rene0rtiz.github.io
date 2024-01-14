@@ -9,6 +9,7 @@
 <!--<img src="images/capstone.png" width="480" height="320"/>-->
 
 ---
+## Python
 [Python](https://github.com/Rene0rtiz/python)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
