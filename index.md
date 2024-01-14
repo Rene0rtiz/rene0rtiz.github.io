@@ -5,7 +5,7 @@
 ## Data Analytics
 
 [Data Analysis](https://github.com/Rene0rtiz/data_analysis)
-<img src="images/data_analysis.jpg?raw=true"
+<img src="images/data_analysis.jpg?raw=true"/>
 
 ---
 ## Python
