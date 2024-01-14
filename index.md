@@ -4,11 +4,11 @@
 
 ## Data Analytics
 
-[Google Data Analytics Capstone Project](https://github.com/Rene0rtiz/Capstone-Project-Using-R)
+[Google Data Analytics Capstone Project](https://github.com/Rene0rtiz/data_analysis)
 <img src="images/capstone.png" width="480" height="320"/>
 
 ---
-[Case Study - Pizza Place](https://github.com/Rene0rtiz/Case_Study-Pizza_Place)
+[Python](https://github.com/Rene0rtiz/python)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
