@@ -5,11 +5,13 @@
 ## Data Analytics
 
 [Google Data Analytics Capstone Project](https://github.com/Rene0rtiz/data_analysis)
-<img src="images/capstone.png" width="480" height="320"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!--<img src="images/capstone.png" width="480" height="320"/>-->
 
 ---
 [Python](https://github.com/Rene0rtiz/python)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 
 ---
 [Project 3 Title](http://example.com/)
