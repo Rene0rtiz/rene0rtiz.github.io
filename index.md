@@ -10,7 +10,7 @@
 ---
 ## Python
 [Python](https://github.com/Rene0rtiz/python)
-<img src="images/python-render.jpg.jpg?raw=true"/>
+<img src="images/python-render.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
