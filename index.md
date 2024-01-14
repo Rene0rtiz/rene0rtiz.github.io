@@ -5,14 +5,12 @@
 ## Data Analytics
 
 [Data Analysis](https://github.com/Rene0rtiz/data_analysis)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-<!--<img src="images/capstone.png" width="480" height="320"/>-->
+<img src="images/data_analysis.jpg?raw=true"
 
 ---
 ## Python
 [Python](https://github.com/Rene0rtiz/python)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-<!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
+<img src="images/python-render.jpg.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
