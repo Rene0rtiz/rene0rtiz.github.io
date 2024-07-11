@@ -1,0 +1,9 @@
+@import "{{ site.theme}}";
+body{
+    background-color: #1e1e2e;
+}
+
+img{
+    width: 400px;
+    height: auto;
+}
