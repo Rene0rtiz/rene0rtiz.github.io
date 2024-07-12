@@ -1,9 +1,0 @@
-@import "{{ site.theme}}";
-body{
-    background-color: #1e1e2e;
-}
-
-
-img{
-    width: 400%;
-    height: auto;
