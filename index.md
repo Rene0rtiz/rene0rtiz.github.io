@@ -17,8 +17,14 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+<!--
+title: Test Carousel
+feed: show
+carousels:
+    - images:
+        - image: /images/1.jpg
 
-<!--### Category Name 2
+### Category Name 2
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
