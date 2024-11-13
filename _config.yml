@@ -7,12 +7,10 @@ description: > # your text below (remove <br> elements if you don't need line br
 # <br><br>
 # <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
 carousels:
-  - images:
+  - images: 
     - image: /images/1.jpg
     - image: /images/2.jpg
     - image: /images/3.jpg
-  -images:
-    - image: /images/data_analysis.jpg
-    - image: /python-render.jpg
+
 theme: jekyll-theme-minimal
 #google_analytics: UA-000000-0 # your Google Analytics tracking ID here
