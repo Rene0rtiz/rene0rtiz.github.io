@@ -39,10 +39,11 @@
       </header>
       <section>
 
-      {% include carousel.html height="50" unit="%" duration="7" number="1" %}
       {{ content }}
 
       </section>
+
+      {% include carousel.html height="50" unit="%" duration="7" number="1" %}
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
